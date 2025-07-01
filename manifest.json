@@ -1,6 +1,6 @@
 {
   "name": "Litmus Admin",
-  "short_name": "Litmus",
+  "short_name": "Litmus Admin",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
